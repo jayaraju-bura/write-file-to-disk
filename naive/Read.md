@@ -1,7 +1,7 @@
 >> go build write_data_to_disk.go 
->>ls                                                                                              
+>> ls                                                                                              
 out.bin  write_data_to_disk  write_data_to_disk.go
->> >> ./write_data_to_disk 
+>> ./write_data_to_disk      
 blocking,0.075080, 1396618794.550542
 blocking,0.070153, 1494704035.198848
 blocking,0.072977, 1436860176.807458
